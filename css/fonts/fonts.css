@@ -1,0 +1,15 @@
+/* Lato Font Family */
+@import url(http://fonts.googleapis.com/css?family=Lato:100,400);
+
+/* Alte Haas Grotesk */
+@font-face {
+	font-family: "Alte Haas";
+	src: url(AlteHaasGroteskBold.ttf);
+}
+
+/* Liberation Sans */
+
+@font-face {
+	font-family: "Liberation Sans";
+	src: url(LiberationSans-Regular.ttf);
+}
